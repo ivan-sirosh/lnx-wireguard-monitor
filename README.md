@@ -7,6 +7,7 @@ The `wireguard-monitor` service pings the monitored resource, and if it goes dow
 ## Usage
 
 replace 10.10.10.1 by internal WireGuard peer ip
+
 replace 5 by time in minutes to initiate restart (example: 1 or 10 or ...) 
 
 ```shell
